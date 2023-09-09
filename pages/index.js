@@ -65,7 +65,7 @@ export default function Home() {
         {/* Informational Section */}
         <section className="my-16">
           <h2 className="text-2xl font-semibold mb-4">Why EcoReward?</h2>
-          <p className="text-lg mb-4">EcoReward is not just a platform, but a community-driven initiative to incentivize earth-saving actions. By participating, you're not just earning tokens, but also contributing to a sustainable future.</p>
+          <p className="text-lg mb-4">EcoReward is not just a platform, but a community-driven initiative to incentivize earth-saving actions. By participating, you are not just earning tokens, but also contributing to a sustainable future.</p>
           <Link href="/about">
             <p className="text-green-500 hover:underline">Learn More</p>
           </Link>
