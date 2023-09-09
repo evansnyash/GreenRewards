@@ -1,0 +1,23 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "pwa-demo",
+  "short_name": "pwa-demo",
+  "description": "pwa demo app",
+    "icons": [
+      {
+        "src": "/next.svg",
+        "sizes": "192x192",
+        "type": "image/svg"
+      },
+      {
+        "src": "/next.svg",
+        "sizes": "192x192",
+        "type": "image/svg"
+      }
+    ]
+  }
+  
